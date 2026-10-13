@@ -26,9 +26,9 @@ Khác với các tài liệu học React chỉ sao chép lại lý thuyết ho�
 | STT | Bài học | Trọng tâm lý thuyết | Lab thực hành đi kèm | Trạng thái |
 |:---:|:---|:---|:---|:---:|
 | **01** | [**Bài 1: Your First Component**](./Bai1-Your_First_Component) | Component là gì, cấu trúc hàm, cú pháp JSX, cạm bẫy viết hoa PascalCase & ASI | `my-app` (Profile, Gallery, Parent-Child) | ✅ Đã sẵn sàng |
-| **02** | [**Bài 2: Importing and Exporting Components**](./Bai2-) | Root Component, default export vs named export, quy chuẩn tách file | `my-app` (Tổ chức module cây thư mục) | ⏳ Đang cập nhật |
-| **03** | [**Bài 3: Writing Markup with JSX**](./Bai3-) | Bản chất JSX vs HTML, quy tắc thẻ đóng, React Fragment `<>`, bẫy `className` | `my-app` (Chuyển đổi HTML chuẩn sang JSX) | ⏳ Đang cập nhật |
-| **04** | [**Bài 4: JavaScript in JSX with Curly Braces**](./Bai4-) | Nhúng biểu thức động với `{ }`, truyền biến, cú pháp double curly braces `{{ }}` | `my-app` (Avatar động, định kiểu nội tuyến) | ⏳ Đang cập nhật |
+| **02** | [**Bài 2: Importing and Exporting Components**](./Bai2-IMPORTING_AND_EXPORTING_COMPONENTS) | Root Component, default export vs named export, phòng tránh lỗi undefined | `my-app` (Tổ chức module, Lab mô phỏng lỗi) | ✅ Đã sẵn sàng |
+| **03** | [**Bài 3: Writing Markup with JSX**](./Bai3-WRITING%20MARKUP%20WITH%20JSX) | Bản chất JSX vs HTML, quy tắc thẻ đóng, React Fragment `<>`, bẫy `className` | `my-app` (Bộ chuyển đổi HTML sang JSX, Lab mô phỏng lỗi) | ✅ Đã sẵn sàng |
+| **04** | [**Bài 4: JavaScript in JSX with Curly Braces**](./Bai4-JAVASCRIPT_IN_JSX_WITH_CURLY_BRACES) | Nhúng biểu thức động với `{ }`, truyền biến, cú pháp double curly braces `{{ }}` | `my-app` (Sân chơi biểu thức động, Lab cạm bẫy Falsy) | ✅ Đã sẵn sàng |
 | **05** | [**Bài 5: Passing Props to a Component**](./Bai5-Passing_Props_To_A_Component) | Truyền Props, bóc tách Destructuring, Props mặc định, Spread Props `{...props}`, prop `children` | `my-app` (Card wrapper, Profile, Avatar, Spread Lab) | ✅ Đã sẵn sàng |
 | **06** | [**Bài 6: Conditional Rendering**](./Bai6-Condition_Rendering) | Render có điều kiện, toán tử ba ngôi `? :`, logic AND `&&` và cạm bẫy số `0` | `my-app` (PackingList, Badge tương tác) | ✅ Đã sẵn sàng |
 | **07** | [**Bài 7: Rendering Lists**](./Bai7-Rendering_Lists) | Hàm `map()` & `filter()`, tầm quan trọng cốt tử của `key`, cạm bẫy dùng Index làm Key | `my-app` (Key Pitfalls Lab, Danh mục khoa học) | ✅ Đã sẵn sàng |
