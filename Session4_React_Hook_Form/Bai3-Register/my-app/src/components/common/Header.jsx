@@ -14,7 +14,7 @@ export default function Header() {
           <div>
             <h1 className="brand-title">register() Deep Dive & Spread Mechanics</h1>
             <p className="brand-subtitle">
-              Session 4 • Bài 3: Giải Mã register("fieldName") (name, onChange, onBlur, ref & Cú Pháp Spread {...})
+              Session 4 • Bài 3: Giải Mã register("fieldName") (name, onChange, onBlur, ref & Cú Pháp Spread {'{...}'})
             </p>
           </div>
         </div>
