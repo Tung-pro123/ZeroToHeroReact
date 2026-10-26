@@ -60,6 +60,7 @@ Khác với các tài liệu học React chỉ sao chép lại lý thuyết ho�
 |   STT   | Bài học                                                                       | Trọng tâm lý thuyết                                                                                                      | Lab thực hành đi kèm                                           |   Trạng thái   |
 | :-----: | :---------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- | :------------: |
 | **01**  | [**Bài 1: React Router Basics**](./Session_2_React_Router/Bai1-Routing)       | Client-Side Routing vs Server-Side Routing, `createBrowserRouter`, `RouterProvider`, `Link` vs `NavLink`, Nested Routes | `my-app` (Multi-page Layout, Active Navigation, Dynamic Routes) | ✅ Đã sẵn sàng |
+| **02**  | [**Bài 2: Navigating**](./Session_2_React_Router/Bai2-NAVIGATING)             | Điều hướng Declarative (`<Link>`, `<NavLink>`) vs Programmatic (`useNavigate`), Thuộc tính `end`, `isActive` callback  | `my-app` (Navigation Engine, NavLink Active Lab, Auth & Wizard Flow, Mini Store, Quiz) | ✅ Đã sẵn sàng |
 | **...** | _Các chuyên đề Loaders, Actions, Auth Guards, Error Boundaries trong Router_ | _Đang tiếp tục hoàn thiện và cập nhật theo lộ trình_                                                                     | _Labs nâng cao_                                                | 🚀 Coming soon |
 
 ---
