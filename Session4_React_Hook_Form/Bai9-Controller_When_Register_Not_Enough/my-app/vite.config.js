@@ -1,5 +1,5 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
 // Dedicated port 3049 for Session 4 Bài 9
 export default defineConfig({
@@ -7,7 +7,6 @@ export default defineConfig({
   server: {
     port: 3049,
     strictPort: true,
-    open: true
-  }
+    open: true,
+  },
 });
-

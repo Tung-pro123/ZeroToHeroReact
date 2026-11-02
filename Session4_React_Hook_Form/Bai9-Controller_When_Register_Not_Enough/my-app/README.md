@@ -5,7 +5,9 @@ Dự án thực hành chuyên sâu về **Controller Architecture & The Adapter 
 ---
 
 ## 🚀 Cổng Port Chuyên Dụng
+
 Ứng dụng chạy trên cổng **Port 3049** để không bị xung đột với các bài học trước:
+
 - Bài 4: `3044`
 - Bài 5: `3045`
 - Bài 6: `3046`
@@ -48,4 +50,3 @@ Truy cập ứng dụng tại: **`http://localhost:3049`**
    - Biến đổi Object phức tạp thành chuỗi ID đơn giản (hoặc ngược lại) ngay trong `onChange` của Controller.
 5. **Senior Architect Quiz (`ArchitectQuizPage.jsx`):**
    - Bộ 5 câu hỏi trắc nghiệm chuyên sâu về Controller, forwardRef, field vs fieldState, phòng tránh lỗi double registration.
-

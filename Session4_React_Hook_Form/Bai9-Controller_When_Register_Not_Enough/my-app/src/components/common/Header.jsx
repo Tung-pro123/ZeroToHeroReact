@@ -1,5 +1,5 @@
-import React from 'react';
-import { useLocation } from 'react-router-dom';
+import React from "react";
+import { useLocation } from "react-router-dom";
 
 export default function Header() {
   const location = useLocation();
@@ -12,9 +12,12 @@ export default function Header() {
             <span>🎛️</span>
           </div>
           <div>
-            <h1 className="brand-title">Controller Architecture & Adapter Pattern</h1>
+            <h1 className="brand-title">
+              Controller Architecture & Adapter Pattern
+            </h1>
             <p className="brand-subtitle">
-              Session 4 • Bài 9: Tích Hợp Custom/Controlled Components Khi register() Không Thể Spread Trực Tiếp
+              Session 4 • Bài 9: Tích Hợp Custom/Controlled Components Khi
+              register() Không Thể Spread Trực Tiếp
             </p>
           </div>
         </div>
@@ -34,4 +37,3 @@ export default function Header() {
     </header>
   );
 }
-
